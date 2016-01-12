@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-2.48.2.jar -role node -timeout=25 -nodeConfig nodeconfig.json -Dwebdriver.ie.driver=.\IEDriverServer.exe -Dwebdriver.chrome.driver=.\chromedriver.exe -Dwebdriver.edge.driver=.\MicrosoftWebDriver.exe

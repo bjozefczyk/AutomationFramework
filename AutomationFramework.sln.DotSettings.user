@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1D03E1BDE05845BD859B02787BC6F347/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1D03E1BDE05845BD859B02787BC6F347/Name/@EntryValue">TestScenario</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1D03E1BDE05845BD859B02787BC6F347/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=22FE3C231C2744BE89B729716467B909/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=22FE3C231C2744BE89B729716467B909/Name/@EntryValue">CanChangeCurrencyToPounds #3</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=22FE3C231C2744BE89B729716467B909/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76564E25EC614375BCF476400EB42692/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76564E25EC614375BCF476400EB42692/Name/@EntryValue">TestScenario #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=76564E25EC614375BCF476400EB42692/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=781C270E32944F288867F01BD3D61536/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=781C270E32944F288867F01BD3D61536/Name/@EntryValue">CanChangeCurrencyToPounds</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=781C270E32944F288867F01BD3D61536/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C2742A0F3F6C4B4CA3A5C5AD0F02AF52/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C2742A0F3F6C4B4CA3A5C5AD0F02AF52/Name/@EntryValue">CanChangeCurrencyToPounds #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C2742A0F3F6C4B4CA3A5C5AD0F02AF52/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C709C5289D8547979EFA3F13C7328A73/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C709C5289D8547979EFA3F13C7328A73/Name/@EntryValue">CanChangeCurrencyToPounds</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C709C5289D8547979EFA3F13C7328A73/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=ECFB5E5A1E25429E814B9E76324BF316/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=ECFB5E5A1E25429E814B9E76324BF316/Name/@EntryValue">Test</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=ECFB5E5A1E25429E814B9E76324BF316/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Tests.OpenCartTestFixture" type="NUnitTestFixtureElement" Project="65A6FCF6-B4DF-4F96-AE8E-DD8530C0369A" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Tests.OpenCartTestFixture.TestScenario" ParentId="Tests.OpenCartTestFixture" type="NUnitTestElement" TypeName="Tests.OpenCartTestFixture" MethodName="TestScenario" Project="65A6FCF6-B4DF-4F96-AE8E-DD8530C0369A" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>
